@@ -9,6 +9,16 @@
 光芒在此永驻，我们即是永恒。
 
 ---
+## 免责
+此项目仅用于学习和研究，不涉及任何商业用途。所有skill属于其作者。
+默认授权为 MIT 协议。
+默认所有skill来源来自公开数据。不涉及任何隐私等。 如果有任何问题，请提交issue 删除。
+
+## 使用方法
+方法一：将 .skill 的链接发送给你的agent 
+
+方法二：npx skills add
+
 
 ## 目录
 
@@ -72,11 +82,9 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 
 ## 基础常用工具 General
 
-
 | 名字 | Skill | 作者 | 描述 |
 |------|-------|------|------|
-| 同事.skill | [colleague-skill](https://github.com/titanwings/colleague-skill) | [@titanwings](https://github.com/titanwings) | 蒸馏你的同事 [Colleague Skill 网站](https://titanwings.github.io/colleague-skill-site/)|
-
+| 同事.skill | [colleague-skill](https://github.com/titanwings/colleague-skill) | [@titanwings](https://github.com/titanwings) | 蒸馏你的同事 [Colleague Skill 网站](https://titanwings.github.io/colleague-skill-site/) |
 | 女娲.skill | [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | [@alchaincyf](https://github.com/alchaincyf) | 蒸馏任何人的思维方式——心智模型、决策启发式、表达 DNA |
 | 永生.skill | [immortal-skill](https://github.com/agenmod/immortal-skill) | [@agenmod](https://github.com/agenmod) | 全网首个开源数字永生框架，支持蒸馏任何人 |
 | forge-skill | [forge-skill](https://github.com/YIKUAIBANZI/forge-skill) | [@YIKUAIBANZI](https://github.com/YIKUAIBANZI) | 本地优先的人格引擎，支持多智能体决策 |
@@ -85,16 +93,13 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 | 老板.skills | [boss-skills](https://github.com/vogtsw/boss-skills) | [@vogtsw](https://github.com/vogtsw) | 把老板炼入 token |
 | 导师.skill | [supervisor](https://github.com/ybq22/supervisor) | [@ybq22](https://github.com/ybq22) | 把导师蒸馏成随时可问的 AI Skill |
 | 师兄.skill | [senpai-skill](https://github.com/zhanghaichao520/senpai-skill) | [@zhanghaichao520](https://github.com/zhanghaichao520) | 把毕业的大师兄蒸馏成能继续开组会的 AI Skill |
-
 | 前任.skill | [ex-skill](https://github.com/titanwings/ex-skill) | [@titanwings](https://github.com/titanwings) | 蒸馏你的前任 |
 | 现任.skill | [partner-skill](https://github.com/NatalieCao323/partner-skill) | [@NatalieCao323](https://github.com/NatalieCao323) | 蒸馏你的伴侣 |
 | 初恋.skill | [first-love-skill](https://github.com/z969081067-commits/first-love-skill) | [@z969081067-commits](https://github.com/z969081067-commits) | 把记忆里的初恋蒸馏成可以对话的 AI Skill |
-
 | 父母.skill | [parents-skills](https://github.com/xiaoheizi8/parents-skills) | [@xiaoheizi8](https://github.com/xiaoheizi8) | 提供父母的聊天记录与记忆，生成真正像他们的 AI Skill |
 | 重逢.skill | [reunion-skill](https://github.com/yangdongchen66-boop/reunion-skill) | [@yangdongchen66-boop](https://github.com/yangdongchen66-boop) | 蒸馏逝去的亲人，构建具备情感还原度的数字陪伴 |
-
-| UP主.skill | [up-skill](https://github.com/jiemojiemo/up-skill) | [@jiemojiemo](https://github.com/jiemojiemo) | 自动蒸馏 B 站 UP 主 | - | - |
-| 内娱.skill | [star-skill](https://github.com/yanghaoraneve/star-skill) | [@yanghaoraneve](https://github.com/yanghaoraneve) | 将歌手/偶像转化为可对话的 AI 数字人格 | - | - |
+| UP主.skill | [up-skill](https://github.com/jiemojiemo/up-skill) | [@jiemojiemo](https://github.com/jiemojiemo) | 自动蒸馏 B 站 UP 主 |
+| 内娱.skill | [star-skill](https://github.com/yanghaoraneve/star-skill) | [@yanghaoraneve](https://github.com/yanghaoraneve) | 将歌手/偶像转化为可对话的 AI 数字人格 |
 
 ## 投资大牛 Investors
 
@@ -165,8 +170,10 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 | 博尔赫斯.skill | [borges-skill](https://github.com/Panmax/borges-skill) | [@Panmax](https://github.com/Panmax) | 迷宫思维：无限、镜像、时间分叉 | [豪尔赫·路易斯·博尔赫斯](https://baike.baidu.com/item/豪尔赫·路易斯·博尔赫斯) | [Jorge Luis Borges](https://zh.wikipedia.org/wiki/豪尔赫·路易斯·博尔赫斯) |
 | 蒙田.skill | [montaigne-skill](https://github.com/Panmax/montaigne-skill) | [@Panmax](https://github.com/Panmax) | 随笔精神、自我认知方法与怀疑智慧 | [米歇尔·德·蒙田](https://baike.baidu.com/item/米歇尔·德·蒙田) | [Michel de Montaigne](https://zh.wikipedia.org/wiki/米歇尔·德·蒙田) |
 
-
 ## 巨星人物 Superstars
+
+| 名字 | Skill | 作者 | 描述 | 百度百科 | 维基百科 |
+|------|-------|------|------|---------|---------|
 | 李小龙.skill | [brucelee-skill](https://github.com/Panmax/brucelee-skill) | [@Panmax](https://github.com/Panmax) | 截拳道哲学操作系统 | [李小龙](https://baike.baidu.com/item/李小龙) | [李小龙](https://zh.wikipedia.org/wiki/李小龙) |
 
 ## 政治家 & 军事家 Statesmen & Strategists
@@ -200,15 +207,13 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 | 名字 | Skill | 作者 | 描述 | 百度百科 | 维基百科 |
 |------|-------|------|------|---------|---------|
 | 张雪峰.skill | [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | [@alchaincyf](https://github.com/alchaincyf) | 社会筛子理论、选择大于努力、中位数原则 | [张雪峰](https://baike.baidu.com/item/张雪峰) | - |
-
 | 吴军.skill | [wujun-skill](https://github.com/Panmax/wujun-skill) | [@Panmax](https://github.com/Panmax) | 信息论视角理解世界、以格局决定命运 | [吴军](https://baike.baidu.com/item/吴军) | - |
-
-
 
 ## 带来快乐的相声演员 Comedian Actors
 
+| 名字 | Skill | 作者 | 描述 | 百度百科 | 维基百科 |
+|------|-------|------|------|---------|---------|
 | 郭德纲.skill | [guodegang-skills](https://github.com/ByteRax/guodegang-skills) | [@ByteRax](https://github.com/ByteRax) | 认知操作系统——6个核心心智模型、10条决策启发式 | [郭德纲](https://baike.baidu.com/item/郭德纲) | [郭德纲](https://zh.wikipedia.org/wiki/郭德纲) |
----
 
 ## 古代人物 Ancient
 
@@ -315,14 +320,12 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 ### AI 研究者
 | 名字 | Skill | 作者 | 描述 | 百度百科 | 维基百科 |
 |------|-------|------|------|---------|---------|
-
 | 安德烈·卡帕西.skill | [karpathy-skill](https://github.com/alchaincyf/karpathy-skill) | [@alchaincyf](https://github.com/alchaincyf) | 对 AI 工程、教育与研究的思考框架 | [Andrej Karpathy](https://baike.baidu.com/item/Andrej Karpathy) | [Andrej Karpathy](https://zh.wikipedia.org/wiki/Andrej Karpathy) |
 | 伊利亚·苏茨克维.skill | [ilya-sutskever-skill](https://github.com/alchaincyf/ilya-sutskever-skill) | [@alchaincyf](https://github.com/alchaincyf) | 对规模化、研究突破与超级智能的判断框架 | [Ilya Sutskever](https://baike.baidu.com/item/Ilya Sutskever) | [Ilya Sutskever](https://zh.wikipedia.org/wiki/Ilya Sutskever) |
 
 ### 网络人物与公众人物
 | 名字 | Skill | 作者 | 描述 | 百度百科 | 维基百科 |
 |------|-------|------|------|---------|---------|
-
 | 户晨风.skill | [hu-chen-feng-skill](https://github.com/123pyLeo/hu-chen-feng-skill) | [@123pyLeo](https://github.com/123pyLeo) | 现实主义判断框架 | - | - |
 | 童锦程.skill | [tong-jincheng-skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) | [@hotcoffeeshake](https://github.com/hotcoffeeshake) | 情感博主 | - | - |
 | 曲曲大女人.skill | [relationship-ququ-skill](https://github.com/Aubrey0806/relationship-ququ-skill) | [@Aubrey0806](https://github.com/Aubrey0806) | 情感博主 | - | - |
