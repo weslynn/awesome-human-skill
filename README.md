@@ -202,8 +202,6 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 | 苏格拉底.skill | [socrates-skill](https://github.com/Panmax/socrates-skill) | [@Panmax](https://github.com/Panmax) | 产婆术、认知谦逊、批判性思维的提问框架 | [苏格拉底](https://baike.baidu.com/item/苏格拉底) | [Socrates](https://zh.wikipedia.org/wiki/苏格拉底) |
 | 苏格拉底问答法.skill | [socrates-skill](https://github.com/RoundTable02/socrates-skill) | [@RoundTable02](https://github.com/RoundTable02) | 引导用户自己发现答案，拒绝直接给出结论 | [苏格拉底](https://baike.baidu.com/item/苏格拉底) | [Socrates](https://zh.wikipedia.org/wiki/苏格拉底) |
 | 苏格拉底助产术.skill | [socratic-method-skill](https://github.com/malkreide/socratic-method-skill) | [@malkreide](https://github.com/malkreide) | 教学、治疗（CBT）、法律分析、教练四种模式 | [苏格拉底](https://baike.baidu.com/item/苏格拉底) | [Socrates](https://zh.wikipedia.org/wiki/苏格拉底) |
-
-
 | 柏拉图.skill | [plato-skill](https://github.com/Panmax/plato-skill) | [@Panmax](https://github.com/Panmax) | 理念论、辩证法与哲学对话 | [柏拉图](https://baike.baidu.com/item/柏拉图) | [Plato](https://zh.wikipedia.org/wiki/柏拉图) |
 | 亚里士多德.skill | [aristotle-skill](https://github.com/Panmax/aristotle-skill) | [@Panmax](https://github.com/Panmax) | 逻辑学、修辞学与中道伦理 | [亚里士多德](https://baike.baidu.com/item/亚里士多德) | [Aristotle](https://zh.wikipedia.org/wiki/亚里士多德) |
 | 尼采.skill | [nietzsche-skill](https://github.com/Panmax/nietzsche-skill) | [@Panmax](https://github.com/Panmax) | 超人哲学、权力意志与价值重估 | [弗里德里希·尼采](https://baike.baidu.com/item/弗里德里希·尼采) | [Friedrich Nietzsche](https://zh.wikipedia.org/wiki/弗里德里希·尼采) |
