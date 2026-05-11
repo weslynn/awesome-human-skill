@@ -111,7 +111,6 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 | 达尔文.skill | [darwin-skill](https://github.com/alchaincyf/darwin-skill) | [@alchaincyf](https://github.com/alchaincyf) | 自动优化Skill的系统：评估→改进→测试→保留或回滚，基于Karpathy autoresearch灵感 |
 | 永生.skill | [immortal-skill](https://github.com/agenmod/immortal-skill) | [@agenmod](https://github.com/agenmod) | 全网首个开源数字永生框架，支持蒸馏任何人 |
 | forge-skill | [forge-skill](https://github.com/YIKUAIBANZI/forge-skill) | [@YIKUAIBANZI](https://github.com/YIKUAIBANZI) | 本地优先的人格引擎，支持多智能体决策 |
-| Awesome 女娲.skill | [awesome-nuwa](https://github.com/Panmax/awesome-nuwa) | [@Panmax](https://github.com/Panmax) | 159 位历史公众人物思维框架合集 |
 | 自己.skill | [self-skill](https://github.com/moyitech/self-skill) | [@moyitech](https://github.com/moyitech) | 把自己蒸馏成能替你工作的 AI Skill |
 | 老板.skills | [boss-skills](https://github.com/vogtsw/boss-skills) | [@vogtsw](https://github.com/vogtsw) | 把老板炼入 token |
 | 导师.skill | [supervisor](https://github.com/ybq22/supervisor) | [@ybq22](https://github.com/ybq22) | 把导师蒸馏成随时可问的 AI Skill |
