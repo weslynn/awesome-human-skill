@@ -190,8 +190,8 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 ### AI 研究者
 | 名字 | Skill | 作者 | 描述 | 百度百科 | 维基百科 |
 |------|-------|------|------|---------|---------|
-| 安德烈·卡帕西.skill | [karpathy-skill](https://github.com/alchaincyf/karpathy-skill) | [@alchaincyf](https://github.com/alchaincyf) | 对 AI 工程、教育与研究的思考框架 | [Andrej Karpathy](https://baike.baidu.com/item/Andrej Karpathy) | [Andrej Karpathy](https://zh.wikipedia.org/wiki/Andrej Karpathy) |
-| 伊利亚·苏茨克维.skill | [ilya-sutskever-skill](https://github.com/alchaincyf/ilya-sutskever-skill) | [@alchaincyf](https://github.com/alchaincyf) | 对规模化、研究突破与超级智能的判断框架 | [Ilya Sutskever](https://baike.baidu.com/item/Ilya Sutskever) | [Ilya Sutskever](https://zh.wikipedia.org/wiki/Ilya Sutskever) |
+| 安德烈·卡帕西.skill | [karpathy-skill](https://github.com/alchaincyf/karpathy-skill) | [@alchaincyf](https://github.com/alchaincyf) |OPENAI联合创始人。 对 AI 工程、教育与研究的思考框架 | [Andrej Karpathy](https://baike.baidu.com/item/%E5%AE%89%E5%BE%B7%E7%83%88%C2%B7%E5%8D%A1%E5%B8%95%E8%A5%BF) | [Andrej Karpathy](https://zh.wikipedia.org/wiki/%E5%AE%89%E5%BE%B7%E7%83%88%C2%B7%E5%8D%A1%E5%B8%95%E8%A5%BF) |
+| 伊利亚·苏茨克维.skill | [ilya-sutskever-skill](https://github.com/alchaincyf/ilya-sutskever-skill) | [@alchaincyf](https://github.com/alchaincyf) | OPENAI联合创始人。 对规模化、研究突破与超级智能的判断框架 | [Ilya Sutskever](https://baike.baidu.com/item/%E4%BC%8A%E5%B0%94%E4%BA%9A%C2%B7%E8%8B%8F%E8%8C%A8%E5%85%8B%E7%BB%B4/63739745) | [Ilya Sutskever](https://zh.wikipedia.org/wiki/%E4%BC%8A%E7%88%BE%E4%BA%9E%C2%B7%E8%98%87%E8%8C%A8%E5%85%8B%E7%B6%AD) |
 | 吴军.skill | [wujun-skill](https://github.com/Panmax/wujun-skill) | [@Panmax](https://github.com/Panmax) | 信息论视角理解世界、以格局决定命运 | [吴军](https://baike.baidu.com/item/吴军) | - |
 
 
