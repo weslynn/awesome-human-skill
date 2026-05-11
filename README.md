@@ -34,9 +34,14 @@
 ## 使用方法
 方法一：将 .skill 的项目链接发送给你的agent ，和他说：安装这个skill
 
-方法二：npx skills add
+方法二：npx skills add 你想安装的skill
 
+以女娲这个项目为例： 直接在命令行中输入：
+```
 npx skills add alchaincyf/nuwa-skill
+```
+即可安装。
+
 
 
 ## 目录
@@ -99,10 +104,11 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 
 ## 基础常用工具 General
 
-| 名字 | Skill | 作者 | 描述 |
+| 名字 | Skill地址 | 作者 | 描述 |
 |------|-------|------|------|
 | 同事.skill | [colleague-skill](https://github.com/titanwings/colleague-skill) | [@titanwings](https://github.com/titanwings) | 蒸馏你的同事 [Colleague Skill 网站](https://titanwings.github.io/colleague-skill-site/) |
 | 女娲.skill | [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | [@alchaincyf](https://github.com/alchaincyf) | 蒸馏任何人的思维方式——心智模型、决策启发式、表达 DNA |
+| 达尔文.skill | [darwin-skill](https://github.com/alchaincyf/darwin-skill) | [@alchaincyf](https://github.com/alchaincyf) | 自动优化Skill的系统：评估→改进→测试→保留或回滚，基于Karpathy autoresearch灵感 |
 | 永生.skill | [immortal-skill](https://github.com/agenmod/immortal-skill) | [@agenmod](https://github.com/agenmod) | 全网首个开源数字永生框架，支持蒸馏任何人 |
 | forge-skill | [forge-skill](https://github.com/YIKUAIBANZI/forge-skill) | [@YIKUAIBANZI](https://github.com/YIKUAIBANZI) | 本地优先的人格引擎，支持多智能体决策 |
 | Awesome 女娲.skill | [awesome-nuwa](https://github.com/Panmax/awesome-nuwa) | [@Panmax](https://github.com/Panmax) | 159 位历史公众人物思维框架合集 |
