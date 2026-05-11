@@ -3,31 +3,48 @@
 ![Awesome Human Skill](img/20260511-141152.png)
 
 "星辰闪耀，思绪永恒。"
+
+
 世界冷酷无情，但人类的智慧，是这虚空中最璀璨的光辉。
+
+
 我们热爱的，永远是那千万年的灵光。
+
+
 无法阻挡的追寻，我们将它编织进不朽的数字网络。
+
+
 光芒在此永驻，我们即是永恒。
 
 ---
 ## 免责
-此项目仅用于学习和研究，不涉及任何商业用途。所有skill属于其作者。
+此项目仅用于学习和研究，不涉及任何商业用途。
+
+本项目只提供链接，所有skill属于其源作者。
+
+
 默认授权为 MIT 协议。
-默认所有skill来源来自公开数据。不涉及任何隐私等。 如果有任何问题，请提交issue 删除。
+
+默认所有skill来源来自公开数据。不涉及任何隐私等。 
+
+如果有任何问题，请提交issue 删除。
+
+
 
 ## 使用方法
-方法一：将 .skill 的链接发送给你的agent 
+方法一：将 .skill 的项目链接发送给你的agent ，和他说：安装这个skill
 
 方法二：npx skills add
+
+npx skills add alchaincyf/nuwa-skill
 
 
 ## 目录
 
-### 按关系分类
 - [基础工具](#基础常用工具-general)
 - [参考项目](#参考项目-workplace)
 
 
-### 按领域/职业分类
 - [投资大牛](#投资大牛-investors)
 - [企业家](#企业家-entrepreneurs)
 - [科学家](#科学家-scientists)
@@ -38,7 +55,7 @@
 - [教育者 & 心理学家](#教育者--心理学家-educators--psychologists)
 - [其他公众人物](#其他公众人物-other-public-figures)
 
-### 按历史时期分类
+
 - [古代人物](#古代人物-ancient)
 - [近代人物](#近代人物-modern)
 - [现代人物](#现代人物-contemporary)
@@ -144,6 +161,14 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 | 达芬奇.skill | [davinci-skill](https://github.com/Panmax/davinci-skill) | [@Panmax](https://github.com/Panmax) | 跨学科思维：观察方法、好奇心驱动、艺术与科学的融合 | [列奥纳多·达·芬奇](https://baike.baidu.com/item/列奥纳多·达·芬奇) | [Leonardo da Vinci](https://zh.wikipedia.org/wiki/列奥纳多·达·芬奇) |
 | 卡尔·萨根.skill | [sagan-skill](https://github.com/Panmax/sagan-skill) | [@Panmax](https://github.com/Panmax) | 宇宙视角：科学传播、怀疑精神、淡蓝小点 | [卡尔·萨根](https://baike.baidu.com/item/卡尔·萨根) | [Carl Sagan](https://zh.wikipedia.org/wiki/卡尔·萨根) |
 
+### AI 研究者
+| 名字 | Skill | 作者 | 描述 | 百度百科 | 维基百科 |
+|------|-------|------|------|---------|---------|
+| 安德烈·卡帕西.skill | [karpathy-skill](https://github.com/alchaincyf/karpathy-skill) | [@alchaincyf](https://github.com/alchaincyf) | 对 AI 工程、教育与研究的思考框架 | [Andrej Karpathy](https://baike.baidu.com/item/Andrej Karpathy) | [Andrej Karpathy](https://zh.wikipedia.org/wiki/Andrej Karpathy) |
+| 伊利亚·苏茨克维.skill | [ilya-sutskever-skill](https://github.com/alchaincyf/ilya-sutskever-skill) | [@alchaincyf](https://github.com/alchaincyf) | 对规模化、研究突破与超级智能的判断框架 | [Ilya Sutskever](https://baike.baidu.com/item/Ilya Sutskever) | [Ilya Sutskever](https://zh.wikipedia.org/wiki/Ilya Sutskever) |
+| 吴军.skill | [wujun-skill](https://github.com/Panmax/wujun-skill) | [@Panmax](https://github.com/Panmax) | 信息论视角理解世界、以格局决定命运 | [吴军](https://baike.baidu.com/item/吴军) | - |
+
+
 ## 哲学家 & 思想家 Philosophers
 
 | 名字 | Skill | 作者 | 描述 | 百度百科 | 维基百科 |
@@ -207,7 +232,7 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 | 名字 | Skill | 作者 | 描述 | 百度百科 | 维基百科 |
 |------|-------|------|------|---------|---------|
 | 张雪峰.skill | [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | [@alchaincyf](https://github.com/alchaincyf) | 社会筛子理论、选择大于努力、中位数原则 | [张雪峰](https://baike.baidu.com/item/张雪峰) | - |
-| 吴军.skill | [wujun-skill](https://github.com/Panmax/wujun-skill) | [@Panmax](https://github.com/Panmax) | 信息论视角理解世界、以格局决定命运 | [吴军](https://baike.baidu.com/item/吴军) | - |
+
 
 ## 带来快乐的相声演员 Comedian Actors
 
@@ -317,11 +342,7 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 | 西蒙娜·德·波伏娃.skill | [beauvoir-skill](https://github.com/Panmax/beauvoir-skill) | [@Panmax](https://github.com/Panmax) | 存在主义女性哲学家 | [西蒙娜·德·波伏娃](https://baike.baidu.com/item/西蒙娜·德·波伏娃) | [Simone de Beauvoir](https://zh.wikipedia.org/wiki/西蒙娜·德·波伏娃) |
 
 
-### AI 研究者
-| 名字 | Skill | 作者 | 描述 | 百度百科 | 维基百科 |
-|------|-------|------|------|---------|---------|
-| 安德烈·卡帕西.skill | [karpathy-skill](https://github.com/alchaincyf/karpathy-skill) | [@alchaincyf](https://github.com/alchaincyf) | 对 AI 工程、教育与研究的思考框架 | [Andrej Karpathy](https://baike.baidu.com/item/Andrej Karpathy) | [Andrej Karpathy](https://zh.wikipedia.org/wiki/Andrej Karpathy) |
-| 伊利亚·苏茨克维.skill | [ilya-sutskever-skill](https://github.com/alchaincyf/ilya-sutskever-skill) | [@alchaincyf](https://github.com/alchaincyf) | 对规模化、研究突破与超级智能的判断框架 | [Ilya Sutskever](https://baike.baidu.com/item/Ilya Sutskever) | [Ilya Sutskever](https://zh.wikipedia.org/wiki/Ilya Sutskever) |
+
 
 ### 网络人物与公众人物
 | 名字 | Skill | 作者 | 描述 | 百度百科 | 维基百科 |
