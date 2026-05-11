@@ -120,14 +120,21 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 
 ## 投资大牛 Investors
 
+
 ### 巴菲特专项
+
+沃伦·巴菲特（Warren E. Buffett），股神
+
+
+基本上所有想做投资的，都想要一个股神助手。
+
 | 名字 | Skill | 作者 | 描述 | 百度百科 | 维基百科 |
 |------|-------|------|------|---------|---------|
 | 巴菲特.skill | [buffett-skill](https://github.com/Panmax/buffett-skill) | [@Panmax](https://github.com/Panmax) | 蒸馏巴菲特的投资思维：价值投资、护城河、长期主义 | [沃伦·巴菲特](https://baike.baidu.com/item/沃伦·巴菲特) | [Warren Buffett](https://zh.wikipedia.org/wiki/沃伦·巴菲特) |
 | 巴菲特投资.skill | [warren-buffett-investor](https://github.com/ztword/warren-buffett-investor) | [@ztword](https://github.com/ztword) | 包含12个完整模块+附录，共约800行，可直接用作AI Agent的系统提示词或投资分析框架 | [沃伦·巴菲特](https://baike.baidu.com/item/沃伦·巴菲特) | [Warren Buffett](https://zh.wikipedia.org/wiki/沃伦·巴菲特) |
 | 巴菲特思维.skill | [warren-buffett-skill](https://github.com/siqinsong/warren-buffett-skill) | [@siqinsong](https://github.com/siqinsong) | 基于1977-2024年股东信、年报、股东大会问答等一手文献提炼的完整投资哲学与思维体系 | [沃伦·巴菲特](https://baike.baidu.com/item/沃伦·巴菲特) | [Warren Buffett](https://zh.wikipedia.org/wiki/沃伦·巴菲特) |
 | 巴菲特.skill | [warren-buffett-skill](https://github.com/justinhuangai/warren-buffett-skill) | [@justinhuangai](https://github.com/justinhuangai) | 用边界感、商业判断与资本配置分析长期决策，包含5个核心心智模型、8条资本配置启发式 | [沃伦·巴菲特](https://baike.baidu.com/item/沃伦·巴菲特) | [Warren Buffett](https://zh.wikipedia.org/wiki/沃伦·巴菲特) |
-
+| 巴菲特视角.skill | [warren-buffett-perspective](https://github.com/sjq597/warren-buffett-perspective) | [@sjq597](https://github.com/sjq597) | 调研50+来源，蒸馏7个核心心智模型、10条决策启发式、6大内在张力 | [沃伦·巴菲特](https://baike.baidu.com/item/沃伦·巴菲特) | [Warren Buffett](https://zh.wikipedia.org/wiki/沃伦·巴菲特) |
 
 
 ## 其他大牛
