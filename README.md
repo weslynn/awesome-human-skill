@@ -126,7 +126,7 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 | 父母.skill | [parents-skills](https://github.com/xiaoheizi8/parents-skills) | [@xiaoheizi8](https://github.com/xiaoheizi8) | 提供父母的聊天记录与记忆，生成真正像他们的 AI Skill |
 | 重逢.skill | [reunion-skill](https://github.com/yangdongchen66-boop/reunion-skill) | [@yangdongchen66-boop](https://github.com/yangdongchen66-boop) | 蒸馏逝去的亲人，构建具备情感还原度的数字陪伴 |
 | UP主.skill | [up-skill](https://github.com/jiemojiemo/up-skill) | [@jiemojiemo](https://github.com/jiemojiemo) | 自动蒸馏 B 站 UP 主 |
-| 内娱.skill | [star-skill](https://github.com/yanghaoraneve/star-skill) | [@yanghaoraneve](https://github.com/yanghaoraneve) | 将歌手/偶像转化为可对话的 AI 数字人格 |
+| 内娱.skill | [star-skill](https://github.com/yanghaoraneve/star-skill) | [@yanghaoraneve](https://github.com/yanghaoraneve) | 将歌手/偶像转化为可对话的 AI 数字人格，支持网易云音乐，b站，微博，台词本等数据 |
 | 博主蒸馏器.skill | [blogger-distiller](https://github.com/otter1101/blogger-distiller) | [@otter1101](https://github.com/otter1101) | 自动爬取任意小红书博主全量笔记，蒸馏成创作指南 |
 | 饕餮.skill | [bggg-skill-taotie](https://github.com/binggandata/bggg-skill-taotie) | [@binggandata](https://github.com/binggandata) | 把优秀的 Skill 喂给饕餮，让你的 Skill 自己进化 |
 | 反蒸馏.skill | [anti-distill](https://github.com/leilei926524-tech/anti-distill) | [@leilei926524-tech](https://github.com/leilei926524-tech) | 公司让你写 Skill 把自己变成随叫随到的AI？想都别想 |
