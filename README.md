@@ -61,7 +61,8 @@ npx skills add alchaincyf/nuwa-skill
 - [其他公众人物](#其他公众人物-other-public-figures)
 
 
-- [古代人物](#古代人物-ancient)
+- [古代思想家](#古代思想家-philosophers--thinkers)
+- [古代诗人](#古代诗人-poets)
 - [近代人物](#近代人物-modern)
 - [现代人物](#现代人物-contemporary)
 
