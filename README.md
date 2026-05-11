@@ -32,9 +32,13 @@
 
 
 ## 使用方法
-方法一：将 .skill 的项目链接发送给你的agent ，和他说：安装这个skill
+我们列出来的每个人物 skill 都有skill 地址。 
 
-方法二：npx skills add 你想安装的skill
+方法一：让agent自己装。现在无论是claude，小龙虾openclaw，workbuddy还是其他家的AI，都支持自然语言安装skill的功能。
+
+所以 将 .skill 的项目链接发送给你的agent ，和他说：安装这个skill，它就会自己安装好了。
+
+方法二：命令行方法。 npx skills add 你想安装的skill。 具体可以去看每个项目的介绍。很多都支持直接安装。
 
 以女娲这个项目为例： 直接在命令行中输入：
 ```
