@@ -347,10 +347,7 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 | 高德纳.skill | [knuth-skill](https://github.com/Panmax/knuth-skill) | [@Panmax](https://github.com/Panmax) | 计算机科学泰斗 | [高德纳](https://baike.baidu.com/item/高德纳) | [Donald Knuth](https://zh.wikipedia.org/wiki/高德纳) |
 | 卡尔·萨根.skill | [sagan-skill](https://github.com/Panmax/sagan-skill) | [@Panmax](https://github.com/Panmax) | 天文学家、科普作家 | [卡尔·萨根](https://baike.baidu.com/item/卡尔·萨根) | [Carl Sagan](https://zh.wikipedia.org/wiki/卡尔·萨根) |
 
-### 币圈
-| 名字 | Skill | 作者 | 描述 | 百度百科 | 维基百科 |
-|------|-------|------|------|---------|---------|
-| 孙哥.skill | [Cyber-Sun-Ge](https://github.com/xuzhouli2020-design/Cyber-Sun-Ge) | [@xuzhouli2020-design](https://github.com/xuzhouli2020-design) | 孙宇晨 | [孙宇晨](https://baike.baidu.com/item/孙宇晨) | [Justin Sun](https://zh.wikipedia.org/wiki/孙宇晨) |
+
 
 ### 作家与哲学家
 | 名字 | Skill | 作者 | 描述 | 百度百科 | 维基百科 |
@@ -362,7 +359,15 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 | 汉娜·阿伦特.skill | [arendt-skill](https://github.com/Panmax/arendt-skill) | [@Panmax](https://github.com/Panmax) | 政治哲学家 | [汉娜·阿伦特](https://baike.baidu.com/item/汉娜·阿伦特) | [Hannah Arendt](https://zh.wikipedia.org/wiki/汉娜·阿伦特) |
 | 西蒙娜·德·波伏娃.skill | [beauvoir-skill](https://github.com/Panmax/beauvoir-skill) | [@Panmax](https://github.com/Panmax) | 存在主义女性哲学家 | [西蒙娜·德·波伏娃](https://baike.baidu.com/item/西蒙娜·德·波伏娃) | [Simone de Beauvoir](https://zh.wikipedia.org/wiki/西蒙娜·德·波伏娃) |
 
+### 那个家喻户晓的人
+| 名字 | Skill | 作者 | 描述 | 百度百科 | 维基百科 |
+|------|-------|------|------|---------|---------|
+| Trump.skill | [Trump-skill](https://github.com/wwwttlll/Trump-skill) | [@wwwttlll](https://github.com/wwwttlll) | 美国前总统 | [唐纳德·特朗普](https://baike.baidu.com/item/唐纳德·特朗普) | [Donald Trump](https://zh.wikipedia.org/wiki/唐纳德·特朗普) |
 
+### 币圈
+| 名字 | Skill | 作者 | 描述 | 百度百科 | 维基百科 |
+|------|-------|------|------|---------|---------|
+| 孙哥.skill | [Cyber-Sun-Ge](https://github.com/xuzhouli2020-design/Cyber-Sun-Ge) | [@xuzhouli2020-design](https://github.com/xuzhouli2020-design) | 孙宇晨 | [孙宇晨](https://baike.baidu.com/item/孙宇晨) | [Justin Sun](https://zh.wikipedia.org/wiki/孙宇晨) |
 
 
 ### 网络人物与公众人物
@@ -374,7 +379,7 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 | 谢胜子.skill | [xie-shengzi](https://github.com/Crystalzhou666/xie-shengzi) | [@Crystalzhou666](https://github.com/Crystalzhou666) | 博主 | - | - |
 | 峰哥亡命天涯.skill | [fengge-wangmingtianya-perspective](https://github.com/rottenpen/fengge-wangmingtianya-perspective) | [@rottenpen](https://github.com/rottenpen) | 主播 | - | - |
 | 陈震.skill | [zhen-ge-skill](https://github.com/LBatsoft/zhen-ge-skill) | [@LBatsoft](https://github.com/LBatsoft) | 汽车评测人 | - | - |
-| Trump.skill | [Trump-skill](https://github.com/wwwttlll/Trump-skill) | [@wwwttlll](https://github.com/wwwttlll) | 美国前总统 | [唐纳德·特朗普](https://baike.baidu.com/item/唐纳德·特朗普) | [Donald Trump](https://zh.wikipedia.org/wiki/唐纳德·特朗普) |
+
 
 
 
