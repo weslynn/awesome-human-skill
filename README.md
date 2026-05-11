@@ -123,6 +123,7 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 | 重逢.skill | [reunion-skill](https://github.com/yangdongchen66-boop/reunion-skill) | [@yangdongchen66-boop](https://github.com/yangdongchen66-boop) | 蒸馏逝去的亲人，构建具备情感还原度的数字陪伴 |
 | UP主.skill | [up-skill](https://github.com/jiemojiemo/up-skill) | [@jiemojiemo](https://github.com/jiemojiemo) | 自动蒸馏 B 站 UP 主 |
 | 内娱.skill | [star-skill](https://github.com/yanghaoraneve/star-skill) | [@yanghaoraneve](https://github.com/yanghaoraneve) | 将歌手/偶像转化为可对话的 AI 数字人格 |
+| 博主蒸馏器.skill | [blogger-distiller](https://github.com/otter1101/blogger-distiller) | [@otter1101](https://github.com/otter1101) | 自动爬取任意小红书博主全量笔记，蒸馏成创作指南 |
 
 ## 投资大牛 Investors
 
@@ -149,6 +150,9 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 | 本杰明·格雷厄姆.skill | [grahamben-skill](https://github.com/Panmax/grahamben-skill) | [@Panmax](https://github.com/Panmax) | 价值投资之父的思维方式，用安全边际和理性分析守护投资决策 | [本杰明·格雷厄姆](https://baike.baidu.com/item/本杰明·格雷厄姆) | [Benjamin Graham](https://zh.wikipedia.org/wiki/本杰明·格雷厄姆) |
 | 霍华德·马克斯.skill | [marks-skill](https://github.com/Panmax/marks-skill) | [@Panmax](https://github.com/Panmax) | 第二层思维、周期理论与风险意识，穿越周期、管控风险、逆向投资 | [霍华德·马克斯](https://baike.baidu.com/item/霍华德·马克斯) | [Howard Marks](https://zh.wikipedia.org/wiki/霍华德·马克斯) |
 | 达利欧.skill | [dalio-skill](https://github.com/Panmax/dalio-skill) | [@Panmax](https://github.com/Panmax) | 原则思维、极度透明与算法决策方法论 | [瑞·达利欧](https://baike.baidu.com/item/瑞·达利欧) | [Ray Dalio](https://zh.wikipedia.org/wiki/瑞·达利欧) |
+| 芒格.skill | [munger-skill](https://github.com/alchaincyf/munger-skill) | [@alchaincyf](https://github.com/alchaincyf) | 跨学科思维、心智格栅、逆向思维 | [查理·芒格](https://baike.baidu.com/item/查理·芒格) | [Charlie Munger](https://zh.wikipedia.org/wiki/查理·芒格) |
+| 塔勒布.skill | [taleb-skill](https://github.com/alchaincyf/taleb-skill) | [@alchaincyf](https://github.com/alchaincyf) | 风险、反脆弱、不确定性思维 | [纳西姆·塔勒布](https://baike.baidu.com/item/纳西姆·塔勒布) | [Nassim Taleb](https://zh.wikipedia.org/wiki/纳西姆·塔勒布) |
+| Naval.skill | [naval-skill](https://github.com/alchaincyf/naval-skill) | [@alchaincyf](https://github.com/alchaincyf) | 财富、杠杆、特定知识、内心宁静 | [Naval Ravikant](https://baike.baidu.com/item/Naval Ravikant) | [Naval Ravikant](https://zh.wikipedia.org/wiki/Naval_Ravikant) |
 
 ## 企业家 Entrepreneurs
 
@@ -159,6 +163,9 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 | 稻盛和夫.skill | [inamori-skill](https://github.com/Panmax/inamori-skill) | [@Panmax](https://github.com/Panmax) | 利他主义、阿米巴管理、敬天爱人的经营哲学 | [稻盛和夫](https://baike.baidu.com/item/稻盛和夫) | [稻盛和夫](https://zh.wikipedia.org/wiki/稻盛和夫) |
 | 松下幸之助.skill | [matsushita-skill](https://github.com/Panmax/matsushita-skill) | [@Panmax](https://github.com/Panmax) | 自来水哲学、经营即育人的朴素智慧 | [松下幸之助](https://baike.baidu.com/item/松下幸之助) | [松下幸之助](https://zh.wikipedia.org/wiki/松下幸之助) |
 | 安迪·格鲁夫.skill | [grove-skill](https://github.com/Panmax/grove-skill) | [@Panmax](https://github.com/Panmax) | 偏执管理哲学，战略转折点思维和危机意识 | [安迪·格鲁夫](https://baike.baidu.com/item/安迪·格鲁夫) | [Andrew Grove](https://zh.wikipedia.org/wiki/安迪·格鲁夫) |
+| 马斯克.skill | [elon-musk-skill](https://github.com/alchaincyf/elon-musk-skill) | [@alchaincyf](https://github.com/alchaincyf) | 工程思维、成本意识、第一性原理 | [埃隆·马斯克](https://baike.baidu.com/item/埃隆·马斯克) | [Elon Musk](https://zh.wikipedia.org/wiki/埃隆·马斯克) |
+| 张一鸣.skill | [zhang-yiming-skill](https://github.com/alchaincyf/zhang-yiming-skill) | [@alchaincyf](https://github.com/alchaincyf) | 产品思维、组织管理、全球化视角 | [张一鸣](https://baike.baidu.com/item/张一鸣) | [张一鸣](https://zh.wikipedia.org/wiki/张一鸣) |
+| 段永平.skill | [duan-yongping-skill](https://github.com/derrickgong87/duan-yongping-skill) | [@derrickgong87](https://github.com/derrickgong87) | 买股票就是买公司，买公司就是买其未来现金流折现 | [段永平](https://baike.baidu.com/item/段永平) | [段永平](https://zh.wikipedia.org/wiki/段永平) |
 
 ## 科学家 Scientists
 
@@ -239,6 +246,7 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 | 蒙特梭利.skill | [montessori-skill](https://github.com/Panmax/montessori-skill) | [@Panmax](https://github.com/Panmax) | 观察优先、尊重儿童、环境即教师 | [玛丽亚·蒙台梭利](https://baike.baidu.com/item/玛丽亚·蒙台梭利) | [Maria Montessori](https://zh.wikipedia.org/wiki/玛丽亚·蒙台梭利) |
 | 胡适.skill | [hushi-skill](https://github.com/Panmax/hushi-skill) | [@Panmax](https://github.com/Panmax) | 实验主义精神与温和理性的论说风格 | [胡适](https://baike.baidu.com/item/胡适) | [胡适](https://zh.wikipedia.org/wiki/胡适) |
 | 朱熹.skill | [zhuxi-skill](https://github.com/Panmax/zhuxi-skill) | [@Panmax](https://github.com/Panmax) | 理学方法论，指导学习、读书与格物致知 | [朱熹](https://baike.baidu.com/item/朱熹) | [朱熹](https://zh.wikipedia.org/wiki/朱熹) |
+
 
 ## 其他公众人物 Other Public Figures
 
