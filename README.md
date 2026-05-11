@@ -212,6 +212,7 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 | 马克思.skill | [karlmarx-skill](https://github.com/baojiachen0214/karlmarx-skill) | [@baojiachen0214](https://github.com/baojiachen0214) | 马克思主义方法论，深层结构分析 | [卡尔·马克思](https://baike.baidu.com/item/卡尔·马克思) | [Karl Marx](https://zh.wikipedia.org/wiki/卡尔·马克思) |
 | 毛选.skill | [maoxuan-skill](https://github.com/leezythu/maoxuan-skill) | [@leezythu](https://github.com/leezythu) | 毛泽东的思维框架，7个心智模型 | [毛泽东](https://baike.baidu.com/item/毛泽东) | [毛泽东](https://zh.wikipedia.org/wiki/毛泽东) |
 | 求是Skill | [qiushi-skill](https://github.com/HughYau/qiushi-skill) | [@HughYau](https://github.com/HughYau) | 从教员思想中提炼一条总原则和九大方法论工具 | [毛泽东](https://baike.baidu.com/item/毛泽东) | [毛泽东](https://zh.wikipedia.org/wiki/毛泽东) |
+| 华夏老祖宗.skill | [huaxia-wisdom](https://github.com/liangjfblue/huaxia-wisdom) | [@liangjfblue](https://github.com/liangjfblue) | 34个华夏智慧框架：阴阳平衡、庖丁解牛、知行合一、纵横捭阖等 | - | - |
 
 ## 文学家 & 艺术家 Writers & Artists
 
