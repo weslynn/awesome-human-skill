@@ -107,6 +107,12 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
     * 自己.skill：主张“与其蒸馏别人，不如蒸馏自己”，实现自我的数字备份。
     * 女娲.skill: 输入一个名字，自动抓取信息，构建赛博人物skill
 
+### 无数好玩的skill项目
+每天都会看到很多人，发布了很多有意思的skill项目。
+
+希望你和这些赛博精神聊的开心
+
+![stevejobs](img/steve-jobs.png)
 
 ## 基础常用工具 General
 
