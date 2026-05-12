@@ -46,6 +46,7 @@ npx skills add alchaincyf/nuwa-skill
 ```
 即可安装。
 
+另外很多skill ，如果不用调用工具，你也可以下载即用。
 
 
 ## 目录
@@ -131,7 +132,7 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 | 饕餮.skill | [bggg-skill-taotie](https://github.com/binggandata/bggg-skill-taotie) | [@binggandata](https://github.com/binggandata) | 把优秀的 Skill 喂给饕餮，让你的 Skill 自己进化 |
 | 反蒸馏.skill | [anti-distill](https://github.com/leilei926524-tech/anti-distill) | [@leilei926524-tech](https://github.com/leilei926524-tech) | 公司让你写 Skill 把自己变成随叫随到的AI？想都别想 |
 
-## 那些重构了自己的人
+## 那些重构了自己的人/喜好/特点
 
 把自己蒸馏成能替你工作的 AI Skill
 数字生命卡兹克开源的自己写作的skill 和 自己热点信息网站的skill
@@ -196,11 +197,13 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 | 达芬奇.skill | [davinci-skill](https://github.com/Panmax/davinci-skill) | [@Panmax](https://github.com/Panmax) | 跨学科思维：观察方法、好奇心驱动、艺术与科学的融合 | [列奥纳多·达·芬奇](https://baike.baidu.com/item/列奥纳多·达·芬奇) | [Leonardo da Vinci](https://zh.wikipedia.org/wiki/列奥纳多·达·芬奇) |
 | 卡尔·萨根.skill | [sagan-skill](https://github.com/Panmax/sagan-skill) | [@Panmax](https://github.com/Panmax) | 宇宙视角：科学传播、怀疑精神、淡蓝小点 | [卡尔·萨根](https://baike.baidu.com/item/卡尔·萨根) | [Carl Sagan](https://zh.wikipedia.org/wiki/卡尔·萨根) |
 
-### AI 研究者
+### AI研究者
 | 名字 | Skill | 作者 | 描述 | 百度百科 | 维基百科 |
 |------|-------|------|------|---------|---------|
 | 安德烈·卡帕西.skill | [karpathy-skill](https://github.com/alchaincyf/karpathy-skill) | [@alchaincyf](https://github.com/alchaincyf) |OPENAI联合创始人。 对 AI 工程、教育与研究的思考框架 | [Andrej Karpathy](https://baike.baidu.com/item/%E5%AE%89%E5%BE%B7%E7%83%88%C2%B7%E5%8D%A1%E5%B8%95%E8%A5%BF) | [Andrej Karpathy](https://zh.wikipedia.org/wiki/%E5%AE%89%E5%BE%B7%E7%83%88%C2%B7%E5%8D%A1%E5%B8%95%E8%A5%BF) |
 | 伊利亚·苏茨克维.skill | [ilya-sutskever-skill](https://github.com/alchaincyf/ilya-sutskever-skill) | [@alchaincyf](https://github.com/alchaincyf) | OPENAI联合创始人。 对规模化、研究突破与超级智能的判断框架 | [Ilya Sutskever](https://baike.baidu.com/item/%E4%BC%8A%E5%B0%94%E4%BA%9A%C2%B7%E8%8B%8F%E8%8C%A8%E5%85%8B%E7%BB%B4/63739745) | [Ilya Sutskever](https://zh.wikipedia.org/wiki/%E4%BC%8A%E7%88%BE%E4%BA%9E%C2%B7%E8%98%87%E8%8C%A8%E5%85%8B%E7%B6%AD) |
+| 伊利亚·苏茨克维辩论.skill | [ilya-sutskever](https://github.com/sickn33/antigravity-awesome-skills/tree/main/plugins/antigravity-awesome-skills-claude/skills/ilya-sutskever) | [@sickn33](https://github.com/sickn33) | OpenAI联合创始人、超级智能布局者视角的辩论框架 | [Ilya Sutskever](https://baike.baidu.com/item/%E4%BC%8A%E5%B0%94%E4%BA%9A%C2%B7%E8%8B%8F%E8%8C%A8%E5%85%8B%E7%BB%B4/63739745) | [Ilya Sutskever](https://zh.wikipedia.org/wiki/%E4%BC%8A%E7%88%BE%E4%BA%9E%C2%B7%E8%98%87%E8%8C%A8%E5%85%8B%E7%B6%AD) |
+| 杨立昆.skill | [yann-lecun-debate](https://github.com/sickn33/antigravity-awesome-skills/tree/main/plugins/antigravity-awesome-skills-claude/skills/yann-lecun-debate) | [@sickn33](https://github.com/sickn33) | Meta首席科学家、图灵奖得主。AI研究者的辩论与思考框架 | [杨立昆](https://baike.baidu.com/item/%E6%9D%A8%E7%AB%8B%E6%98%86) | [Yann LeCun](https://zh.wikipedia.org/wiki/%E6%9D%A8%E7%AB%8B%E6%98%86) |
 | 吴军.skill | [wujun-skill](https://github.com/Panmax/wujun-skill) | [@Panmax](https://github.com/Panmax) | 信息论视角理解世界、以格局决定命运 | [吴军](https://baike.baidu.com/item/吴军) | - |
 
 
@@ -385,7 +388,7 @@ Agent Skill 技术最初由 Anthropic（Claude 的开发商）在 2025年10月16
 | 汉娜·阿伦特.skill | [arendt-skill](https://github.com/Panmax/arendt-skill) | [@Panmax](https://github.com/Panmax) | 政治哲学家 | [汉娜·阿伦特](https://baike.baidu.com/item/汉娜·阿伦特) | [Hannah Arendt](https://zh.wikipedia.org/wiki/汉娜·阿伦特) |
 | 西蒙娜·德·波伏娃.skill | [beauvoir-skill](https://github.com/Panmax/beauvoir-skill) | [@Panmax](https://github.com/Panmax) | 存在主义女性哲学家 | [西蒙娜·德·波伏娃](https://baike.baidu.com/item/西蒙娜·德·波伏娃) | [Simone de Beauvoir](https://zh.wikipedia.org/wiki/西蒙娜·德·波伏娃) |
 
-### 那个家喻户晓的人
+### 美国总统
 | 名字 | Skill | 作者 | 描述 | 百度百科 | 维基百科 |
 |------|-------|------|------|---------|---------|
 | Trump.skill | [Trump-skill](https://github.com/wwwttlll/Trump-skill) | [@wwwttlll](https://github.com/wwwttlll) | 美国前总统 | [唐纳德·特朗普](https://baike.baidu.com/item/唐纳德·特朗普) | [Donald Trump](https://zh.wikipedia.org/wiki/唐纳德·特朗普) |
